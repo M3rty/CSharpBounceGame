@@ -1,0 +1,60 @@
+c:\users\m3rty\documents\visual studio 2013\Projects\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe.config
+c:\users\m3rty\documents\visual studio 2013\Projects\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csprojResolveAssemblyReference.cache
+c:\users\m3rty\documents\visual studio 2013\Projects\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Form1.resources
+c:\users\m3rty\documents\visual studio 2013\Projects\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Properties.Resources.resources
+c:\users\m3rty\documents\visual studio 2013\Projects\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.GenerateResource.Cache
+c:\users\m3rty\documents\visual studio 2013\Projects\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe
+c:\users\m3rty\documents\visual studio 2013\Projects\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.pdb
+c:\users\m3rty\documents\visual studio 2013\Projects\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.exe
+c:\users\m3rty\documents\visual studio 2013\Projects\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
+C:\Users\M3rty\Desktop\ÖDev\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe.config
+C:\Users\M3rty\Desktop\ÖDev\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.exe
+C:\Users\M3rty\Desktop\ÖDev\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
+C:\Users\M3rty\Desktop\ÖDev\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe
+C:\Users\M3rty\Desktop\ÖDev\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.pdb
+C:\Users\M3rty\Desktop\ÖDev\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csprojResolveAssemblyReference.cache
+C:\Users\M3rty\Desktop\ÖDev\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Form1.resources
+C:\Users\M3rty\Desktop\ÖDev\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Properties.Resources.resources
+C:\Users\M3rty\Desktop\ÖDev\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.GenerateResource.Cache
+E:\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe.config
+E:\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.exe
+E:\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
+E:\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe
+E:\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.pdb
+E:\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csprojResolveAssemblyReference.cache
+E:\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Form1.resources
+E:\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Properties.Resources.resources
+E:\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.GenerateResource.Cache
+C:\Users\M3rty\Desktop\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe.config
+C:\Users\M3rty\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.exe
+C:\Users\M3rty\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
+C:\Users\M3rty\Desktop\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.exe
+C:\Users\M3rty\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csprojResolveAssemblyReference.cache
+C:\Users\M3rty\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Form1.resources
+C:\Users\M3rty\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.Properties.Resources.resources
+C:\Users\M3rty\Desktop\ProjeOdevi\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.GenerateResource.Cache
+C:\Users\M3rty\Desktop\ProjeOdevi\ProjeOdevi\bin\Debug\ProjeOdevi.pdb
+C:\Users\M3rty\Desktop\ProjeÖdevGörselP\ProjeOdevi\bin\Debug\ProjeOdevi.exe.config
+C:\Users\M3rty\Desktop\ProjeÖdevGörselP\ProjeOdevi\obj\Debug\ProjeOdevi.exe
+C:\Users\M3rty\Desktop\ProjeÖdevGörselP\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
+C:\Users\Mert\Desktop\ProjeÖdevGörselP\ProjeOdevi\bin\Debug\ProjeOdevi.exe.config
+C:\Users\Mert\Desktop\ProjeÖdevGörselP\ProjeOdevi\obj\Debug\ProjeOdevi.exe
+C:\Users\Mert\Desktop\ProjeÖdevGörselP\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
+C:\Users\Mert\Desktop\ProjeÖdevGörselP\ProjeOdevi\bin\Debug\ProjeOdevi.exe
+C:\Users\Mert\Desktop\ProjeÖdevGörselP\ProjeOdevi\bin\Debug\ProjeOdevi.pdb
+C:\Users\Mert\Desktop\ProjeÖdevGörselP\ProjeOdevi\obj\Debug\ProjeOdevi.csprojResolveAssemblyReference.cache
+C:\Users\Mert\Desktop\ProjeÖdevGörselP\ProjeOdevi\obj\Debug\ProjeOdevi.Form1.resources
+C:\Users\Mert\Desktop\ProjeÖdevGörselP\ProjeOdevi\obj\Debug\ProjeOdevi.Properties.Resources.resources
+C:\Users\Mert\Desktop\ProjeÖdevGörselP\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.GenerateResource.Cache
+C:\Users\Mert\Desktop\C# Projects\ProjeÖdevGörselP\ProjeOdevi\bin\Debug\ProjeOdevi.exe.config
+C:\Users\Mert\Desktop\C# Projects\ProjeÖdevGörselP\ProjeOdevi\obj\Debug\ProjeOdevi.exe
+C:\Users\Mert\Desktop\C# Projects\ProjeÖdevGörselP\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
+E:\MERTS\MERTAYTEN\C# Projects\ProjeÖdevGörselP\ProjeOdevi\bin\Debug\ProjeOdevi.exe.config
+E:\MERTS\MERTAYTEN\C# Projects\ProjeÖdevGörselP\ProjeOdevi\obj\Debug\ProjeOdevi.exe
+E:\MERTS\MERTAYTEN\C# Projects\ProjeÖdevGörselP\ProjeOdevi\obj\Debug\ProjeOdevi.pdb
+E:\MERTS\MERTAYTEN\C# Projects\ProjeÖdevGörselP\ProjeOdevi\bin\Debug\ProjeOdevi.exe
+E:\MERTS\MERTAYTEN\C# Projects\ProjeÖdevGörselP\ProjeOdevi\bin\Debug\ProjeOdevi.pdb
+E:\MERTS\MERTAYTEN\C# Projects\ProjeÖdevGörselP\ProjeOdevi\obj\Debug\ProjeOdevi.csprojResolveAssemblyReference.cache
+E:\MERTS\MERTAYTEN\C# Projects\ProjeÖdevGörselP\ProjeOdevi\obj\Debug\ProjeOdevi.Form1.resources
+E:\MERTS\MERTAYTEN\C# Projects\ProjeÖdevGörselP\ProjeOdevi\obj\Debug\ProjeOdevi.Properties.Resources.resources
+E:\MERTS\MERTAYTEN\C# Projects\ProjeÖdevGörselP\ProjeOdevi\obj\Debug\ProjeOdevi.csproj.GenerateResource.Cache
